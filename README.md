@@ -24,6 +24,11 @@ I explore new technologies, programming languages, and concepts to better my kno
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Azure Devops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
+## 
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LukeMattingly&theme=2077)
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LukeMattingly&theme=2077&exclude=MATLAB,Ruby)
+![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LukeMattingly&theme=2077&exclude=MATLAB,Ruby)
+![Stats Card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LukeMattingly&theme=2077)
 
 <!--
 **LukeMattingly/LukeMattingly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
