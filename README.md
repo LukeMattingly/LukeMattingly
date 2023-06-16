@@ -5,17 +5,25 @@ I'm a Senior Software Engineer based in Denver, Colorado. My interests are curre
 I explore new technologies, programming languages, and concepts to better my knowledge and experience. These are some of the things I am familiar with.
 
 ![Rust](https://img.shields.io/badge/-Rust-e53a25?logo=rust&style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ec2025?style=for-the-badge&logoColor=white&logo=Java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logoColor=black&logo=javascript)
-![Vue](https://img.shields.io/badge/-Vue-41b883?style=for-the-badge&logoColor=white&logo=Vue.js)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
-![MySQL](https://img.shields.io/badge/-MySQL-00618a?style=for-the-badge&logoColor=white&logo=mysql)
+![ElasticSearch](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-2ba845?style=for-the-badge&logoColor=white&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-d82c20?style=for-the-badge&logoColor=white&logo=Redis)
 
-![Docker](https://img.shields.io/badge/-Docker-099cec?style=for-the-badge&logoColor=white&logo=docker)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-ff9900?style=for-the-badge&logoColor=white&logo=amazon-aws)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285f4?style=for-the-badge&logoColor=white&logo=google-cloud)
+
+![Docker](https://img.shields.io/badge/-Docker-099cec?style=for-the-badge&logoColor=white&logo=docker)
+![Azure Devops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+
+
 <!--
 **LukeMattingly/LukeMattingly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
