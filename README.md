@@ -21,6 +21,7 @@ I explore new technologies, programming languages, and concepts to better my kno
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285f4?style=for-the-badge&logoColor=white&logo=google-cloud)
 
 ![Docker](https://img.shields.io/badge/-Docker-099cec?style=for-the-badge&logoColor=white&logo=docker)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Azure Devops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 
