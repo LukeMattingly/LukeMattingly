@@ -2,7 +2,7 @@
 I'm a Senior Software Engineer based in Denver, Colorado. My interests are currently around everything Deep Learning from Stable Diffusion w/ Control Net, to CLIP Models involve text/image search to Rust. 
 
 ## ⚡ Technologies
-I explore new technologies, programming languages, and concepts to better my knowledge and experience. These are some of the things I am familiar with.
+I love exploring new technologies, programming languages, and concepts to better my knowledge and experience. These are some of the things I enjoy.
 
 ![Rust](https://img.shields.io/badge/-Rust-e53a25?logo=rust&style=for-the-badge&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -28,7 +28,6 @@ I explore new technologies, programming languages, and concepts to better my kno
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LukeMattingly&theme=2077)
 ![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LukeMattingly&theme=2077&exclude=MATLAB,Ruby)
 ![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LukeMattingly&theme=2077&exclude=MATLAB,Ruby)
-![Stats Card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LukeMattingly&theme=2077)
 
 <!--
 **LukeMattingly/LukeMattingly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
