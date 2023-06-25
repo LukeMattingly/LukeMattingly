@@ -1,8 +1,8 @@
 ## Hey 👋, i'm Luke
-I'm a Senior Software Engineer based in Denver, Colorado. My interests are currently around everything Deep Learning spanning from Stable Diffusion w/ ControlNet, to CLIP Models involve text/image search, to Rust. 
+I'm a Senior Software Engineer. Currently interested in Stable Diffusion w/ ControlNet, CLIP Models involving text/image search, and building performant distributed systems in Rust. 
 
 ## ⚡ Technologies
-I love exploring new technologies, programming languages, and concepts to better my knowledge and experience. These are some of the things I enjoy.
+I love learning new tech, here's some things I have experience in.
 
 ![Rust](https://img.shields.io/badge/-Rust-e53a25?logo=rust&style=for-the-badge&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
