@@ -1,5 +1,5 @@
 ## Hey 👋, i'm Luke
-I'm a Senior Software Engineer. Currently interested in Stable Diffusion w/ ControlNet, CLIP Models involving text/image search, and building performant distributed systems in Rust. 
+I'm a Staff Software Engineer. Currently interested in AI Agents in Langchain/Langchain, smolagents, and Open Hands. Previous - Stable Diffusion w/ ControlNet, CLIP Models involving text/image semantic search, and building performant distributed systems in Rust & Go. 
 
 ## ⚡ Technologies
 I love learning new tech, here's some things I have experience in.
