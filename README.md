@@ -1,13 +1,14 @@
 ## Hey 👋, i'm Luke
-I'm a Staff Software Engineer. Currently interested in AI Agents in Langchain/Langraph, smolagents, and Open Hands. Previous - Stable Diffusion w/ ControlNet, CLIP Models involving text/image semantic search, and building performant distributed systems in Java, Go and Rust. 
+I'm a Staff Software Engineer. Currently interested in Distributed Systems, Database internals, and various areas of Deep Learning. Currently working on agentic systems in Langchain/Langraph, smolagents, and Open Hands. Previous - Stable Diffusion w/ ControlNet, CLIP Models involving text/image semantic search, and learning more Go and Rust. 
 
 ## ⚡ Technologies
 I love learning new tech, here's some things I have experience in.
 
-![Rust](https://img.shields.io/badge/-Rust-e53a25?logo=rust&style=for-the-badge&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ec2025?style=for-the-badge&logoColor=white&logo=Java)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-2570e5?logo=go&style=for-the-badge&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-e53a25?logo=rust&style=for-the-badge&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
