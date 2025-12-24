@@ -1,5 +1,5 @@
 ## Hey 👋, i'm Luke
-I'm a Staff Software Engineer. Currently interested in AI Agents in Langchain/Langchain, smolagents, and Open Hands. Previous - Stable Diffusion w/ ControlNet, CLIP Models involving text/image semantic search, and building performant distributed systems in Rust & Go. 
+I'm a Staff Software Engineer. Currently interested in AI Agents in Langchain/Langraph, smolagents, and Open Hands. Previous - Stable Diffusion w/ ControlNet, CLIP Models involving text/image semantic search, and building performant distributed systems in Java, Go and Rust. 
 
 ## ⚡ Technologies
 I love learning new tech, here's some things I have experience in.
